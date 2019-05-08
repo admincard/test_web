@@ -101,6 +101,21 @@ class Base:
         关闭浏览器
         :return:
         """
+	def close_browser(self):
+        """
+        关闭浏览器
+        :return:
+        """
+	def close_browser(self):
+        """
+        关闭浏览器
+        :return:
+        """
+	def close_browser(self):
+        """
+        关闭浏览器
+        :return:
+        """
         self.driver.quit()
 if __name__ == '__main__':
     driver = open_browser()
